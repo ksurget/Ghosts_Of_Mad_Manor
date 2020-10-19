@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 /// @DnDVersion : 1
 /// @DnDHash : 0CCF5DDC
-/// @DnDArgument : "value" "-2"
+/// @DnDArgument : "value" "-5"
 /// @DnDArgument : "instvar" "5"
-vspeed = -2;
+vspeed = -5;
