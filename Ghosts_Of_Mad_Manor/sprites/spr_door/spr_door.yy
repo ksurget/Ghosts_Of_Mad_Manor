@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b438e21a-258b-4480-8109-a82d4636f088","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Ghosts_Of_Mad_Manor",
-    "path": "Ghosts_Of_Mad_Manor.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_door",
