@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 22A1DFC4
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "move_speed"
+move_speed = 1;
+
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 51C123FA
