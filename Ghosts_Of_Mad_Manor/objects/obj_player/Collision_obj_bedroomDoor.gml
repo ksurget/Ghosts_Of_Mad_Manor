@@ -13,4 +13,13 @@ if(l4D448485_0)
 	/// @DnDArgument : "room" "rm_bedroom"
 	/// @DnDSaveInfo : "room" "rm_bedroom"
 	room_goto(rm_bedroom);
+
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 747F9BF0
+	/// @DnDParent : 4D448485
+	/// @DnDArgument : "x" "511"
+	/// @DnDArgument : "y" "752"
+	x = 511;
+	y = 752;
 }
